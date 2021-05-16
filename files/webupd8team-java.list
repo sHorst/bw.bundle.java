@@ -1,5 +1,0 @@
-% if node.metadata.get("distro_release") == "16.04":
-deb http://ppa.launchpad.net/webupd8team/java/ubuntu xenial main
-% else:
-deb http://ppa.launchpad.net/webupd8team/java/ubuntu trusty main
-% endif
